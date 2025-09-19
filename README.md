@@ -28,12 +28,29 @@ Building modern team collaboration tools with server-side rendering, real-time f
 **[HaircutFun](https://haircutfun.com)** - AI-Powered Haircut Try-On Tool  
 Interactive web application that uses AI to help users visualize different hairstyles before making a decision.
 
-## 💡 Highlights
+## ⚡ The Code Alchemist
 
-- **Proven Impact:** Drove a 400% increase in organic traffic for a key client, demonstrating a strong ability to deliver measurable business outcomes through technical solutions.
-- **Bridging Business and Tech:** Leverage a background in sales to build user-focused applications that solve real-world problems and align with strategic goals.
-- **Modern Full-Stack Development:** Proficient in building and deploying scalable, performance-first web applications using a modern stack that includes Next.js 15, React 19, TypeScript, and Tailwind CSS 4.
-- **End-to-End Project Delivery:** Experienced in the complete development lifecycle, from database design with PostgreSQL and Supabase to building RESTful APIs and deploying on Vercel and AWS.
+```
+    ┌─────────────────────────────────────────────────────────────┐
+    │  🧬 DNA: Sales × Code = User-Obsessed Solutions             │
+    │                                                             │
+    │  📈 Impact Multiplier:                                      │
+    │  ├─ 400% ↗️ Organic Traffic Growth                          │
+    │  ├─ 🎯 Business Goals → Technical Reality                   │
+    │  └─ 🚀 Ideas → Shipped Products                             │
+    │                                                             │
+    │  🔮 Tech Wizardry:                                          │
+    │  ┌─ Frontend ─┐  ┌─ Backend ──┐  ┌─ Cloud ────┐            │
+    │  │ React 19   │  │ Node.js    │  │ Vercel     │            │
+    │  │ Next.js 15 │──│ Supabase   │──│ AWS        │            │
+    │  │ TypeScript │  │ PostgreSQL │  │ Cloudflare │            │
+    │  └────────────┘  └────────────┘  └────────────┘            │
+    │                                                             │
+    │  🎭 Philosophy: "Code is poetry, UX is the stage"          │
+    └─────────────────────────────────────────────────────────────┘
+```
+
+**The Rare Breed:** A developer who speaks both `console.log()` and quarterly reports fluently. I don't just build features—I craft experiences that users love and businesses thrive on.
 
 ---
 
