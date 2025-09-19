@@ -28,38 +28,6 @@ Building modern team collaboration tools with server-side rendering, real-time f
 **[HaircutFun](https://haircutfun.com)** - AI-Powered Haircut Try-On Tool  
 Interactive web application that uses AI to help users visualize different hairstyles before making a decision.
 
-## ⚡ Code in Motion
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ daniel@universe:~/projects$ ./deploy-dreams.sh                  │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ██████╗ ██████╗ ███████╗ █████╗ ████████╗██╗███╗   ██╗ ██████╗ │
-│ ██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║████╗  ██║██╔════╝ │
-│ ██║     ██████╔╝█████╗  ███████║   ██║   ██║██╔██╗ ██║██║  ███╗│
-│ ██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██║██║╚██╗██║██║   ██║│
-│ ╚██████╗██║  ██║███████╗██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝│
-│  ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ │
-│                                                                 │
-│ [████████████████████████████████████████████████] 100%        │
-│                                                                 │
-│ ✨ Transforming ideas into digital reality...                   │
-│ 🚀 400% traffic boost deployed successfully                     │
-│ 🎯 User-centric solutions compiled                              │
-│ ⚡ Next.js 15 + React 19 stack initialized                      │
-│ 🌐 Full-stack architecture optimized                            │
-│                                                                 │
-│ daniel@universe:~/projects$ echo "Ready to build the future"    │
-│ Ready to build the future                                       │
-│ daniel@universe:~/projects$ ▊                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-**🎭 The Art of Code:** Where technical precision meets creative vision. Every line of code is crafted with the same attention to detail as this ASCII masterpiece – because great software is both functional *and* beautiful.
-
-**🌌 Beyond the Terminal:** I don't just write code; I architect digital experiences that make users say "wow" and businesses say "more." From iOS apps that feel like magic to enterprise tools that actually make work enjoyable.
-
 ---
 
 _I'm open to opportunities from innovative clients and larger firms alike._
