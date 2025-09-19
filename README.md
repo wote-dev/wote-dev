@@ -3,9 +3,9 @@
 **Full-Stack Developer** | Melbourne, VIC  
 Transitioning from sales to tech, building scalable web solutions with React, Next.js, and TypeScript.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-danielzverev.com-2196F3?style=flat-square)](https://danielzverev.com)
-[![Email](https://img.shields.io/badge/📧-danielzverev7@gmail.com-EA4335?style=flat-square)](mailto:danielzverev7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=flat-square)](https://linkedin.com/in/daniel-zverev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-danielzverev.com-2196F3?style=for-the-badge&logoColor=white)](https://danielzverev.com)
+[![Email](https://img.shields.io/badge/📧_Email-danielzverev7@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:danielzverev7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/daniel-zverev)
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +19,7 @@ Transitioning from sales to tech, building scalable web solutions with React, Ne
 **[Spaces](https://web.simplr-app.com)** - Enterprise Auto Assigning Task Manager  
 Building modern team collaboration tools with server-side rendering, real-time features, and enterprise-grade security.
 
-## 🎯 Why Choose Me?
+## 💼 Track Record
 
 ✅ **400% Organic Traffic Growth** - Delivered measurable results for key client  
 ✅ **Sales-to-Tech Expertise** - Unique perspective bridging business needs & technical solutions  
@@ -28,5 +28,7 @@ Building modern team collaboration tools with server-side rendering, real-time f
 ✅ **Performance-First** - Server-side rendering, optimized loading, scalable architecture
 
 ---
+
+_I'm open to opportunities from innovative clients and larger firms alike._
 
 _Sales background + technical skills = user-focused solutions that drive business growth_
