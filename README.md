@@ -8,7 +8,7 @@
 
 🌟 **See my work in action** – Check out my portfolio at [danielzverev.com](https://danielzverev.com) featuring live projects and case studies.
 
-[![Follow @wote_dev](https://img.shields.io/badge/Follow_@wote_dev-F7F7F7?style=plastic&logo=x&logoColor=black)](https://x.com/wote_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-zverev)
+
 
 ## 🛠️ Tech Stack
 
