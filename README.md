@@ -2,9 +2,9 @@
 
 **Full-Stack Developer** • **Ready to Ship Your Next Big Idea**
 
-🚀 **Available for hire** – I build high-performance web applications that drive real business results. From concept to deployment, I deliver scalable solutions that users love and businesses depend on.
+🚀 **Available for hire** – I make ideas happen on screens, big and small.
 
-💼 **Let's work together** – Reach out on [X (Twitter)](https://x.com/wote_dev) or [LinkedIn](https://linkedin.com/in/daniel-zverev) to discuss your project.
+💼 **Let's work together** – Reach out on [X (Twitter)](https://x.com/wote_dev) or [LinkedIn](https://linkedin.com/in/daniel-zverev) to discuss what you may have in mind.
 
 🌟 **See my work in action** – Check out my portfolio at [danielzverev.com](https://danielzverev.com) featuring live projects and case studies.
 
