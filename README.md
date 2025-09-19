@@ -1,10 +1,12 @@
 # Daniel Zverev
 
-**Full-Stack Developer**
+**Full-Stack Developer** • **Ready to Ship Your Next Big Idea**
 
-I'm available for hire. Feel free to get in touch with me on [X (Twitter)](https://x.com/wote_dev) or [LinkedIn](https://linkedin.com/in/daniel-zverev).
+🚀 **Available for hire** – I build high-performance web applications that drive real business results. From concept to deployment, I deliver scalable solutions that users love and businesses depend on.
 
-I have a portfolio site showing off some of my projects at [danielzverev.com](https://danielzverev.com).
+💼 **Let's work together** – Reach out on [X (Twitter)](https://x.com/wote_dev) or [LinkedIn](https://linkedin.com/in/daniel-zverev) to discuss your project.
+
+🌟 **See my work in action** – Check out my portfolio at [danielzverev.com](https://danielzverev.com) featuring live projects and case studies.
 
 [![Follow @wote_dev](https://img.shields.io/badge/Follow_@wote_dev-F7F7F7?style=plastic&logo=x&logoColor=black)](https://x.com/wote_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-zverev)
 
