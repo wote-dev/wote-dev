@@ -12,10 +12,13 @@ Transitioning from sales to tech, building scalable web solutions with React, Ne
 **Cloud & DevOps:** Vercel • AWS • Cloudflare • Git/GitHub • CI/CD  
 **Tools:** Vite • Figma • Agile Methodologies
 
-## 🚀 Current Project
+## 🚀 Recent Projects
 
 **[Spaces](https://web.simplr-app.com)** - Enterprise Auto Assigning Task Manager  
 Building modern team collaboration tools with server-side rendering, real-time features, and enterprise-grade security.
+
+**[HaircutFun](https://haircutfun.com)** - AI-Powered Haircut Try-On Tool  
+Interactive web application that uses AI to help users visualize different hairstyles before making a decision.
 
 ## 💡 Highlights
 
