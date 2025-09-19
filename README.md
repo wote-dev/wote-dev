@@ -1,7 +1,10 @@
 # Daniel Zverev
 
-**Full-Stack Developer** | Melbourne, VIC  
-Transitioning from sales to tech, building scalable web solutions with React, Next.js, and TypeScript.
+**Full-Stack Developer**
+
+I'm available for hire. Feel free to get in touch with me on [X (Twitter)](https://x.com/wote_dev) or [LinkedIn](https://linkedin.com/in/daniel-zverev).
+
+I have a portfolio site showing off some of my projects at [danielzverev.com](https://danielzverev.com).
 
 [![Follow @wote_dev](https://img.shields.io/badge/Follow_@wote_dev-F7F7F7?style=plastic&logo=x&logoColor=black)](https://x.com/wote_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-zverev)
 
