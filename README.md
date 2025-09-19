@@ -3,7 +3,7 @@
 **Full-Stack Developer** | Melbourne, VIC  
 Transitioning from sales to tech, building scalable web solutions with React, Next.js, and TypeScript.
 
-[![Follow @ParadoxEpoch](https://img.shields.io/badge/Follow_@ParadoxEpoch-F7F7F7?style=plastic&logo=x&logoColor=black)](https://x.com/ParadoxEpoch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-zverev)
+[![Follow @wote_dev](https://img.shields.io/badge/Follow_@wote_dev-F7F7F7?style=plastic&logo=x&logoColor=black)](https://x.com/wote_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-zverev)
 
 ## 🛠️ Tech Stack
 
