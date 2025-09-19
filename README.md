@@ -9,14 +9,14 @@ Transitioning from sales to tech, building scalable web solutions with React, Ne
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React • Next.js 15 • TypeScript • Tailwind CSS 4 • HTML5/CSS3  
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS • HTML5/CSS3  
 **Backend:** Node.js • Supabase • PostgreSQL • RESTful APIs  
 **Cloud & DevOps:** Vercel • AWS • Cloudflare • Git/GitHub • CI/CD  
 **Tools:** Vite • Figma • Agile Methodologies
 
 ## 🚀 Current Project
 
-**[Spaces](https://danielzverev.com)** - Next-Gen Productivity Platform  
+**[Spaces](https://web.simplr-app.com)** - Enterprise Auto Assigning Task Manager  
 Building modern team collaboration tools with server-side rendering, real-time features, and enterprise-grade security.
 
 ## 🎯 Why Choose Me?
@@ -29,4 +29,4 @@ Building modern team collaboration tools with server-side rendering, real-time f
 
 ---
 
-*Sales background + technical skills = user-focused solutions that drive business growth*
+_Sales background + technical skills = user-focused solutions that drive business growth_
