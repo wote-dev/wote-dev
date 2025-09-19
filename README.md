@@ -14,6 +14,9 @@ Transitioning from sales to tech, building scalable web solutions with React, Ne
 
 ## 🚀 Recent Projects
 
+**[Simplr (iOS)](https://apps.apple.com/us/app/simplr-minimal-to-do-app/id6748098464)** - Minimalistic Task Manager & Daily Planner  
+A beautifully simple iOS app designed for clarity and focus, featuring offline privacy, smart reminders, and elegant light/dark themes. Updated to support iOS 26.
+
 **[Spaces](https://web.simplr-app.com)** - Enterprise Auto Assigning Task Manager  
 Building modern team collaboration tools with server-side rendering, real-time features, and enterprise-grade security.
 
