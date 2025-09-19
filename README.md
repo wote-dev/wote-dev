@@ -19,9 +19,13 @@ Transitioning from sales to tech, building scalable web solutions with React, Ne
 **[Spaces](https://danielzverev.com)** - Next-Gen Productivity Platform  
 Building modern team collaboration tools with server-side rendering, real-time features, and enterprise-grade security.
 
-## 📊 GitHub Stats
+## 🎯 Why Choose Me?
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielZverev&show_icons=true&theme=dark&hide_border=true&count_private=true)
+✅ **400% Organic Traffic Growth** - Delivered measurable results for key client  
+✅ **Sales-to-Tech Expertise** - Unique perspective bridging business needs & technical solutions  
+✅ **Modern Stack Mastery** - Next.js 15, React 19, TypeScript, Tailwind CSS 4  
+✅ **Full-Stack Capability** - End-to-end development from database to deployment  
+✅ **Performance-First** - Server-side rendering, optimized loading, scalable architecture
 
 ---
 
