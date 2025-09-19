@@ -3,9 +3,7 @@
 **Full-Stack Developer** | Melbourne, VIC  
 Transitioning from sales to tech, building scalable web solutions with React, Next.js, and TypeScript.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-danielzverev.com-2196F3?style=for-the-badge&logoColor=white)](https://danielzverev.com)
-[![Email](https://img.shields.io/badge/📧_Email-danielzverev7@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:danielzverev7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/daniel-zverev)
+[![Follow @ParadoxEpoch](https://img.shields.io/badge/Follow_@ParadoxEpoch-F7F7F7?style=plastic&logo=x&logoColor=black)](https://x.com/ParadoxEpoch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-zverev)
 
 ## 🛠️ Tech Stack
 
@@ -19,13 +17,12 @@ Transitioning from sales to tech, building scalable web solutions with React, Ne
 **[Spaces](https://web.simplr-app.com)** - Enterprise Auto Assigning Task Manager  
 Building modern team collaboration tools with server-side rendering, real-time features, and enterprise-grade security.
 
-## 💼 Track Record
+## 💡 Highlights
 
-✅ **400% Organic Traffic Growth** - Delivered measurable results for key client  
-✅ **Sales-to-Tech Expertise** - Unique perspective bridging business needs & technical solutions  
-✅ **Modern Stack Mastery** - Next.js 15, React 19, TypeScript, Tailwind CSS 4  
-✅ **Full-Stack Capability** - End-to-end development from database to deployment  
-✅ **Performance-First** - Server-side rendering, optimized loading, scalable architecture
+- **Proven Impact:** Drove a 400% increase in organic traffic for a key client, demonstrating a strong ability to deliver measurable business outcomes through technical solutions.
+- **Bridging Business and Tech:** Leverage a background in sales to build user-focused applications that solve real-world problems and align with strategic goals.
+- **Modern Full-Stack Development:** Proficient in building and deploying scalable, performance-first web applications using a modern stack that includes Next.js 15, React 19, TypeScript, and Tailwind CSS 4.
+- **End-to-End Project Delivery:** Experienced in the complete development lifecycle, from database design with PostgreSQL and Supabase to building RESTful APIs and deploying on Vercel and AWS.
 
 ---
 
