@@ -1,6 +1,6 @@
 # Daniel Zverev
 
-**Full-Stack Developer** • **Ready to Ship Your Next Big Idea**
+**Full-Stack Developer**
 
 🚀 **Available for hire** – I make ideas happen on screens, big and small.
 
