@@ -1,31 +1,36 @@
 # Daniel Zverev
 
-**Full-Stack Developer**
+**Full-Stack Developer | React • Next.js • TypeScript**
 
-🚀 **Available for hire** – I make ideas happen on screens, big and small.
+Building fast, production-ready web applications for startups and SaaS companies.
 
-💼 **Let's work together** – Reach out on [X (Twitter)](https://x.com/wote_dev) or [LinkedIn](https://linkedin.com/in/daniel-zverev) to discuss what you may have in mind.
+## 🔗 Links
 
+[Personal Website](https://danielzverev.com) • [LinkedIn](https://linkedin.com/in/daniel-zverev) • [Email](mailto:danielzverev7@gmail.com)
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS • HTML5/CSS3  
-**Backend:** Node.js • Supabase • PostgreSQL • RESTful APIs  
-**Cloud & DevOps:** Vercel • AWS • Cloudflare • Git/GitHub • CI/CD  
-**Tools:** Vite • Figma • Agile Methodologies
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, SwiftUI (iOS)  
+**Backend:** Node.js, Supabase (PostgreSQL), RESTful APIs  
+**Cloud & DevOps:** Vercel, AWS, Cloudflare, Git, CI/CD  
+**Tools:** Vite, Figma, Cursor, Claude Code
 
-## 🚀 Recent Projects
+## 📦 Featured Projects
 
-**[Simplr (iOS)](https://apps.apple.com/us/app/simplr-minimal-to-do-app/id6748098464)** - Minimalistic Task Manager & Daily Planner  
-A beautifully simple iOS app designed for clarity and focus, featuring offline privacy, smart reminders, and elegant light/dark themes. Updated to support iOS 26.
+**[Blackcube Solutions](https://blackcubesolutions.com)**  
+Fast-turnaround web development agency. 15+ production applications delivered with React, Next.js, and TypeScript. 48-hour initial delivery for startups.
 
-**[tennanova](https://tennanova.com)** - An intelligent coaching app for tennis coaches. Generate lesson plans, track lesson schedules and more. Coming soon.
+**CoverPilot**  
+Chrome extension for instant cover letter generation. Built with JavaScript and Chrome APIs.
 
-**[HaircutFun](https://haircutfun.com)** - AI-Powered Haircut Try-On Tool  
-Interactive web application that uses AI to help users visualize different hairstyles before making a decision.
+**[Simplr (iOS)](https://apps.apple.com/us/app/simplr-minimal-to-do-app/id6748098464)**  
+Minimalist iOS task manager built with SwiftUI. Offline-first with iCloud sync, smart reminders, and dark mode.
+
+**[Tennanova](https://tennanova.com)**  
+iOS coaching platform for tennis coaches. AI-powered lesson planning, player CRM, scheduling, and payment tracking. Built with SwiftUI and Supabase.
 
 ---
 
-_I'm open to opportunities from innovative clients and larger firms alike._
+## 📫 Get In Touch
 
-_Sales background + technical skills = user-focused solutions that drive business growth_
+Open to freelance projects, contract work, and full-time opportunities in Melbourne.
