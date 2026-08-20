@@ -27,13 +27,9 @@ Blackcube is a Node.js-based command-line tool that checks your codebase for sec
 Chrome extension for instant cover letter generation. Built with JavaScript and Chrome APIs.
 
 **[Simplr (iOS)](https://apps.apple.com/us/app/simplr-minimal-to-do-app/id6748098464)**  
-Minimalist iOS task manager built with SwiftUI. Offline-first with iCloud sync, smart reminders, and dark mode.
-
-**[Tennanova](https://tennanova.com)**  
-iOS coaching platform for tennis coaches. AI-powered lesson planning, player CRM, scheduling, and payment tracking. Built with SwiftUI and Supabase.
-
+NOW DISCONTINUED | Minimalist iOS task manager built with SwiftUI. Offline-first with iCloud sync, smart reminders, and dark mode.
 ---
 
 ## 📫 Get In Touch
 
-Open to freelance projects, contract work, and full-time opportunities in Melbourne.
+Open to collaboration
