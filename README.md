@@ -26,10 +26,6 @@ Blackcube is a Node.js-based command-line tool that checks your codebase for sec
 **[CoverPilot](https://chromewebstore.google.com/detail/coverpilot/bfbkmodhojccecpelfjelanneefjbcao)**  
 Chrome extension for instant cover letter generation. Built with JavaScript and Chrome APIs.
 
-**[Simplr (iOS)](https://apps.apple.com/us/app/simplr-minimal-to-do-app/id6748098464)**  
-NOW DISCONTINUED | Minimalist iOS task manager built with SwiftUI. Offline-first with iCloud sync, smart reminders, and dark mode.
----
-
 ## 📫 Get In Touch
 
 Open to collaboration
