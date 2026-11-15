@@ -1,31 +1,84 @@
 # Daniel Zverev
 
-**Full-Stack Developer | React • Next.js • TypeScript**
+**Full-Stack Product Engineer**
 
-Building fast, production-ready web applications for startups and SaaS companies.
+Production web systems. Native apps. Security tools.
 
-## 🔗 Links
+I build across the stack, from the interface and APIs to deployment. Here are a few things I've shipped.
 
-[Personal Website](https://danielzverev.com) • [LinkedIn](https://linkedin.com/in/daniel-zverev) • [Email](mailto:danielzverev7@gmail.com)
+[LinkedIn ↗](https://linkedin.com/in/daniel-zverev) &nbsp; · &nbsp; [Email ↗](mailto:danielzverev7@gmail.com)
 
-## 🛠️ Tech Stack
+## Blackcube Capital Client Portal
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, SwiftUI (iOS)  
-**Backend:** Node.js, Supabase (PostgreSQL), RESTful APIs  
-**Cloud & DevOps:** Vercel, AWS, Cloudflare, Git, CI/CD  
-**Tools:** Vite, Figma, Cursor, Claude Code
+**Production web application** · Business lending
 
-## 📦 Featured Projects
+A production lending platform with a client portal and staff workspace, covering applications, document requests, offer selection, and settlement.
 
-**[Blackcube Solutions](https://blackcubesolutions.com)**  
-Fast-turnaround web development agency. 15+ production applications delivered with React, Next.js, and TypeScript. 48-hour initial delivery for startups.
+Multi-business accounts, application tracking, post-offer funding stages, and staff administration support the full lending workflow.
 
-**[Blackcube Vulnerability Scanner](https://www.npmjs.com/package/blackcube)**
-Blackcube is a Node.js-based command-line tool that checks your codebase for security vulnerabilities and categorizes findings by severity so you know what to fix first. Installable from NPM and runnable with a single command `npx blackcube scan` it delivers quick audits without a global install and keeps teams informed with actionable output.
+**Built with:** Next.js · React · TypeScript · Supabase · PostgreSQL
 
-**[CoverPilot](https://chromewebstore.google.com/detail/coverpilot/bfbkmodhojccecpelfjelanneefjbcao)**  
-Chrome extension for instant cover letter generation. Built with JavaScript and Chrome APIs.
+[Open the portal ↗](https://www.blackcubecapital.com.au/portal/login)
 
-## 📫 Get In Touch
+<br>
 
-Open to collaboration
+## Tennanova
+
+**Pre-1.0** · Native macOS + Android
+
+Your Android phone's notifications, messages, clipboard, files, and screen on your Mac. Local connections, with no account, cloud service, or telemetry.
+
+Notification replies, clipboard sync, and resumable file transfers over encrypted local connections. Screen mirroring and control over Wi-Fi or USB, with Bluetooth available for other features.
+
+**Built with:** Swift · SwiftUI · Kotlin · Jetpack Compose · TLS WebSockets · Bluetooth
+
+[Explore the source ↗](https://github.com/wote-dev/tenna)
+
+<br>
+
+## More work
+
+### Blackcube Solutions
+
+Penetration testing, ethical hacking, and practical security assessments for Australian businesses, covering websites, web applications, APIs, and networks.
+
+[Visit Blackcube Solutions ↗](https://blackcubesolutions.com/)
+
+### Blackcube Vulnerability Scanner
+
+**Available on npm** · Developer tooling
+
+A command-line security tool that surfaces exposed secrets and common code vulnerabilities, with severity-ranked findings to help prioritise fixes.
+
+```sh
+npx blackcube scan
+```
+
+**Built with:** Node.js · TypeScript
+
+[View on npm ↗](https://www.npmjs.com/package/blackcube)
+
+### CoverPilot
+
+**No longer maintained** · Chrome extension
+
+Chrome extension for instant cover letter generation, built with JavaScript and Chrome APIs. An earlier shipped project; support and updates have ended.
+
+[View on Chrome Web Store ↗](https://chromewebstore.google.com/detail/coverpilot/bfbkmodhojccecpelfjelanneefjbcao)
+
+<br>
+
+## What I work with
+
+- **Web:** React · Next.js · TypeScript · Tailwind CSS
+- **Backend:** Node.js · Supabase · PostgreSQL · REST APIs
+- **Native:** Swift · SwiftUI · Kotlin · Jetpack Compose
+- **Delivery:** Vercel · AWS · Cloudflare · Git · CI/CD
+
+<br>
+
+---
+
+**Open to collaboration.**
+
+[Let's connect on LinkedIn ↗](https://linkedin.com/in/daniel-zverev) &nbsp; · &nbsp; [Get in touch by email ↗](mailto:danielzverev7@gmail.com)
